@@ -1,6 +1,6 @@
 # McChicken
 Our first test at GitHub
 
-## Intrudoction 
+## First things first
 
 i'm hungry 
